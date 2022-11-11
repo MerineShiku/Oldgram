@@ -1,10 +1,4 @@
 const  section= document.querySelector("section")
-//const  likes= document.querySelector(".likes")
-//const  username= document.querySelector(".username")
-//const  name= document.querySelector(".name")
-//const  location= document.querySelector(".location")
-//const  comment= document.querySelector(".comment")
-//const  post= document.querySelector(".post")//
 
 
 
