@@ -1,0 +1,133 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+
+    font-family:"Source Sans Pro", sans-serif;
+    
+
+}
+
+
+
+
+.container {
+     width: 375px;
+      margin: 20px auto;
+    
+    
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid grey;
+  
+    
+}
+
+.user-avatar{
+    
+    width: 50px;  
+    height: 50px;
+    border-radius: 50%;
+    
+}
+
+
+.logo{
+    height: 50px;
+    width: auto;
+    margin-right: 215px;
+    opacity: 0.8;
+   
+    
+}
+
+
+.post-info img{
+    border-radius: 50%;
+    width: 50px;
+    
+}
+
+.post-info{
+    display: flex;
+    padding: 20px 0 10px 0;
+    
+}
+.poster-content{
+ 
+    padding: 10px 0px 0px 10px;
+   
+}
+
+h5{
+    margin-bottom: 4px;
+    margin-top: 0px;
+    
+}
+
+h6{
+    margin-top: 4px;
+
+}
+
+
+.icon-img{
+
+    width: 8%;
+    padding-right:20px;
+    margin-left: 3px;
+
+    
+}
+
+.icons{
+    display: flex;
+    margin: 0px;
+    justify-content: flex-start;
+    
+
+    
+    
+}
+.likes{
+
+  margin-left: 10px;
+  font-weight: bold;
+  margin-top: 8px;
+    
+}
+
+
+
+.post{
+    width: 100%;
+   
+}
+.post-caption{
+     margin-left: 10px;
+     display: flex;
+     margin-top: 4px;
+     
+    
+}
+
+
+p{
+    
+    padding-right: 10px;
+    margin-top: 0px;
+    
+
+}
+
+.username{
+    font-weight: bold;
+}
+
+.icon-img:hover{
+   opacity: 0.1;
+   
+}
